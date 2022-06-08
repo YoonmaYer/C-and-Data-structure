@@ -1,0 +1,4 @@
+﻿  RealMean.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220608\RealMean\RealMean\RealMean.c(13,9): warning C4477: 'scanf' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220608\RealMean\RealMean\RealMean.c(13,9): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  RealMean.vcxproj -> C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220608\RealMean\x64\Debug\RealMean.exe
