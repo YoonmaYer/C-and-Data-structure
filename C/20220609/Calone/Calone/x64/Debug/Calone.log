@@ -1,0 +1,12 @@
+﻿  Calone.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(14,8): warning C4477: 'scanf' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(14,8): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(14,8): warning C4477: 'scanf' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(14,8): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(19,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(21,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(23,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(25,9): warning C4778: 'printf' : 서식 문자열 '% \n'이(가) 종결되지 않았습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(25,25): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\Calone\Calone.c(25,25): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  Calone.vcxproj -> C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\20220609\Calone\x64\Debug\Calone.exe
