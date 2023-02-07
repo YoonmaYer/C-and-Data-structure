@@ -1,0 +1,3 @@
+﻿  StrunctMemArrCopy.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap22\StrunctMemArrCopy\StrunctMemArrCopy\StrunctMemArrCopy.c(23,25): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  StrunctMemArrCopy.vcxproj -> C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap22\StrunctMemArrCopy\x64\Debug\StrunctMemArrCopy.exe

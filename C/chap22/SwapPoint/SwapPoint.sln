@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwapPoint", "SwapPoint\SwapPoint.vcxproj", "{211D4AB3-0B77-4941-B286-FC5616AD6FD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211D4AB3-0B77-4941-B286-FC5616AD6FD5}.Debug|x64.ActiveCfg = Debug|x64
+		{211D4AB3-0B77-4941-B286-FC5616AD6FD5}.Debug|x64.Build.0 = Debug|x64
+		{211D4AB3-0B77-4941-B286-FC5616AD6FD5}.Debug|x86.ActiveCfg = Debug|Win32
+		{211D4AB3-0B77-4941-B286-FC5616AD6FD5}.Debug|x86.Build.0 = Debug|Win32
+		{211D4AB3-0B77-4941-B286-FC5616AD6FD5}.Release|x64.ActiveCfg = Release|x64
+		{211D4AB3-0B77-4941-B286-FC5616AD6FD5}.Release|x64.Build.0 = Release|x64
+		{211D4AB3-0B77-4941-B286-FC5616AD6FD5}.Release|x86.ActiveCfg = Release|Win32
+		{211D4AB3-0B77-4941-B286-FC5616AD6FD5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5DEDB9E-C10F-493E-8294-D509AE1A5601}
+	EndGlobalSection
+EndGlobal
