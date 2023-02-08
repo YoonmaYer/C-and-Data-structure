@@ -1,0 +1,9 @@
+﻿  FirstFileRead.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap24\FirstFileRead\FirstFileRead\FirstFileRead.c(7,19): warning C4129: 'A': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap24\FirstFileRead\FirstFileRead\FirstFileRead.c(7,19): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap24\FirstFileRead\FirstFileRead\FirstFileRead.c(7,19): warning C4129: '':
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap24\FirstFileRead\FirstFileRead\FirstFileRead.c(7,19): warning C4129: 'C': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap24\FirstFileRead\FirstFileRead\FirstFileRead.c(7,19): warning C4129: 'c': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap24\FirstFileRead\FirstFileRead\FirstFileRead.c(7,19): warning C4129: 'F': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap24\FirstFileRead\FirstFileRead\FirstFileRead.c(7,19): warning C4129: 'd': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  FirstFileRead.vcxproj -> C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\C\chap24\FirstFileRead\x64\Debug\FirstFileRead.exe
