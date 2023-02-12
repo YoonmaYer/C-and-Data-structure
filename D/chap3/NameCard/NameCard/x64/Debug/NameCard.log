@@ -1,0 +1,5 @@
+﻿  ArrayList.c
+  NameCardListMain.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap3\NameCard\NameCard\NameCard.h(5,1): error C2011: '__namecard': 'struct' 형식 재정의
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap3\NameCard\NameCard\NameCard.h(4,16): message : '__namecard' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
