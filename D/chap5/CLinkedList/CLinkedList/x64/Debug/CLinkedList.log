@@ -1,0 +1,6 @@
+﻿  CLinkedList.c
+  CLinkedListMain.c
+  코드를 생성하고 있습니다...
+CLinkedListMain.obj : error LNK2019: LInsertmain 함수에서 참조되는 확인할 수 없는 외부 기호
+CLinkedListMain.obj : error LNK2019: LIsertFrontmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap5\CLinkedList\x64\Debug\CLinkedList.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
