@@ -1,0 +1,8 @@
+﻿  InfixToPostFix.h.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap6\InFixToPostfix\InFixToPostfix\InfixToPostFix.h.c(39,15): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap6\InFixToPostfix\InFixToPostfix\InfixToPostFix.h.c(45,2): warning C4013: 'memset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap6\InFixToPostfix\InFixToPostfix\InfixToPostFix.h.c(88,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  InfixToPostFixMain.c
+  ListBaseStack.c
+  코드를 생성하고 있습니다...
+  InFixToPostfix.vcxproj -> C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap6\InFixToPostfix\x64\Debug\InFixToPostfix.exe

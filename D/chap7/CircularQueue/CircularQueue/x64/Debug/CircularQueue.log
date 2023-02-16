@@ -1,0 +1,10 @@
+﻿  CircularQueue.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap7\CircularQueue\CircularQueue\CircularQueue.c(28,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+  CircularQueueMain.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap7\CircularQueue\CircularQueue\CircularQueueMain.c(11,14): warning C4020: 'Enqueue': 실제 매개 변수가 너무 많습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap7\CircularQueue\CircularQueue\CircularQueueMain.c(11,30): warning C4020: 'Enqueue': 실제 매개 변수가 너무 많습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap7\CircularQueue\CircularQueue\CircularQueueMain.c(12,14): warning C4020: 'Enqueue': 실제 매개 변수가 너무 많습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap7\CircularQueue\CircularQueue\CircularQueueMain.c(12,30): warning C4020: 'Enqueue': 실제 매개 변수가 너무 많습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap7\CircularQueue\CircularQueue\CircularQueueMain.c(13,14): warning C4020: 'Enqueue': 실제 매개 변수가 너무 많습니다.
+  코드를 생성하고 있습니다...
+  CircularQueue.vcxproj -> C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap7\CircularQueue\x64\Debug\CircularQueue.exe
