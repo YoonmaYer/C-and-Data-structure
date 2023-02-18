@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include "BinaryTree.h"
 
+void InoderTraverse(BTreeNode* bt)
+{
+	if (bt == NULL) // bt가 NULL이면 재귀 탈출
+		return;
+
+	InoderTraverse(bt->left);
+	printf("%d \n", bt->data);
+	InoderTraverse(bt->right);
+}
 int main(void)
 {
 	BTreeNode* bt1 = MakeBTreeNode();
@@ -18,10 +27,11 @@ int main(void)
 	MakeLeftSubTree(bt2, bt4);
 
 	// bt1의 왼쪽 자식 노드의 데이터 출력
-	printf("%d \n", GetData(GetLeftSubTree(bt1)));
+	// printf("%d \n", GetData(GetLeftSubTree(bt1)));
 
 	// bt1의 왼쪽 자식 노드의 왼쪽 자식 노드의 데이터 출력
-	printf("%d \n", GetData(GetLeftSubTree(GetLeftSubTree(bt1))));
+	//printf("%d \n", GetData(GetLeftSubTree(GetLeftSubTree(bt1))));
 
+	InoderTraverse(bt1);
 	return 0;
 }

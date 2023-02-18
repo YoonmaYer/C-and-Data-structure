@@ -1,0 +1,87 @@
+﻿  SimpleHeap.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(22,16): error C2059: 구문 오류: ';'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(24,1): error C2059: 구문 오류: '}'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(26,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(26,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(26,23): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(28,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(28,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(28,23): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,25): error C2371: 'HData': 재정의. 기본 형식이 다릅니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(11,14): message : 'HData' 선언을 참조하십시오.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,31): error C2146: 구문 오류: ';'이(가) 'data' 식별자 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,37): error C2370: 'Priority': 재정의. 스토리지 클래스가 다릅니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(12,13): message : 'Priority' 선언을 참조하십시오.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,46): error C2146: 구문 오류: ';'이(가) 'pr' 식별자 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,48): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(31,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(31,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(31,23): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(3,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(3,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(3,23): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(4,1): error C2054: 'ph' 다음에 '('가 필요합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(8,18): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(8,18): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(8,22): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(9,1): error C2054: 'ph' 다음에 '('가 필요합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(32,26): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(32,26): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(32,36): error C2059: 구문 오류: '형식'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(32,39): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(57,18): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(57,18): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(57,24): error C2371: 'HData': 재정의. 기본 형식이 다릅니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(11,14): message : 'HData' 선언을 참조하십시오.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(57,30): error C2146: 구문 오류: ';'이(가) 'data' 식별자 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(57,36): error C2370: 'Priority': 재정의. 스토리지 클래스가 다릅니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(12,13): message : 'Priority' 선언을 참조하십시오.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(57,45): error C2146: 구문 오류: ';'이(가) 'pr' 식별자 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(57,47): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(58,1): error C2054: 'pr' 다음에 '('가 필요합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(83,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(83,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(83,23): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.c(84,1): error C2054: 'ph' 다음에 '('가 필요합니다.
+  SimpleHeapMain.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(22,16): error C2059: 구문 오류: ';'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(24,1): error C2059: 구문 오류: '}'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(26,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(26,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(26,23): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(28,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(28,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(28,23): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,25): error C2371: 'HData': 재정의. 기본 형식이 다릅니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(11,14): message : 'HData' 선언을 참조하십시오.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,31): error C2146: 구문 오류: ';'이(가) 'data' 식별자 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,37): error C2370: 'Priority': 재정의. 스토리지 클래스가 다릅니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(12,13): message : 'Priority' 선언을 참조하십시오.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,46): error C2146: 구문 오류: ';'이(가) 'pr' 식별자 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(30,48): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(31,19): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(31,19): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeap.h(31,23): error C2059: 구문 오류: ')'
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(6,7): error C2065: 'Heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(6,7): error C2146: 구문 오류: ';'이(가) 'heap' 식별자 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(6,11): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(7,2): warning C4013: 'HeapInit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(7,16): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(9,2): warning C4013: 'HInsert'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(9,15): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(10,15): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(11,15): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(12,18): warning C4013: 'HDelete'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(12,31): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(14,15): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(15,15): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(16,15): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(17,31): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(19,10): warning C4013: 'HIsEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(19,24): error C2065: 'heap': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap9\SimpleHeap\SimpleHeap\SimpleHeapMain.c(20,32): error C2065: 'heap': 선언되지 않은 식별자입니다.
+  코드를 생성하고 있습니다...
