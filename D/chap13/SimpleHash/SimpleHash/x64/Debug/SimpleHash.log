@@ -1,0 +1,9 @@
+﻿  Person.c
+  SimpleHashMain.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap13\SimpleHash\SimpleHash\SimpleHashMain.c(18,28): warning C4047: '함수': 'HashFunc *'의 간접 참조 수준이 'int (__cdecl *)(int)'과(와) 다릅니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap13\SimpleHash\SimpleHash\SimpleHashMain.c(18,18): warning C4024: 'TBLInit': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  Table.c
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap13\SimpleHash\SimpleHash\Table.c(18,13): error C2064: 항은 0개의 인수를 받아들이는 함수로 계산되지 않습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap13\SimpleHash\SimpleHash\Table.c(26,13): error C2064: 항은 0개의 인수를 받아들이는 함수로 계산되지 않습니다.
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap13\SimpleHash\SimpleHash\Table.c(41,13): error C2064: 항은 0개의 인수를 받아들이는 함수로 계산되지 않습니다.
+  코드를 생성하고 있습니다...
