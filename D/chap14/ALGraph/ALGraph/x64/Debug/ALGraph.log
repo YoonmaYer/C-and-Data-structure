@@ -1,0 +1,9 @@
+﻿  ALGraph.c
+  ALGraphMain.c
+  코드를 생성하고 있습니다...
+ALGraph.obj : error LNK2019: ListInitGraphInit 함수에서 참조되는 확인할 수 없는 외부 기호
+ALGraph.obj : error LNK2019: LInsertAddEdge 함수에서 참조되는 확인할 수 없는 외부 기호
+ALGraph.obj : error LNK2019: LFirstShowGraphEdgeInfo 함수에서 참조되는 확인할 수 없는 외부 기호
+ALGraph.obj : error LNK2019: LNextShowGraphEdgeInfo 함수에서 참조되는 확인할 수 없는 외부 기호
+ALGraph.obj : error LNK2019: SetSortRuleGraphInit 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\ASUS\Desktop\코딩\C and Data structure\C-and-Data-structure\D\chap14\ALGraph\x64\Debug\ALGraph.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
